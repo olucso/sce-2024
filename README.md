@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<a name="readme-top"></a>  
 
-## Getting Started
+<br />
+<div align="center">
+  <h3 align="center">Site institucional de uma empresa que gera gás biometano como forma de energia renovável como solução para outras empresas, fazendo com que o cliente final faça parte.</h3>
+</div>
 
-First, run the development server:
+## 💻 Demonstração Integração Java
+https://www.youtube.com/watch?v=V2dH8Fo9iAU
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## • Screenshots
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+####  •  Home Page :
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Home Page](https://github.com/olucso/assets/blob/main/4.jpg)]()
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+#### •  Quem Somos :
 
-## Learn More
+[![Quem Somos](https://github.com/olucso/assets/blob/main/5.jpeg)]()
 
-To learn more about Next.js, take a look at the following resources:
+#### •  Cases de Sucesso :
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[![Cases de Sucesso](https://github.com/olucso/assets/blob/main/7.jpg)]()
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+#### •  Faça Parte (integrado com API Java) :
 
-## Deploy on Vercel
+[![Faça Parte](https://github.com/olucso/assets/blob/main/8.jpg)]()
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### •  Contato :
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[![Contato](https://github.com/olucso/assets/blob/main/9.jpg)]()
+
+#### •  Integrantes :
+
+[![Integrantes](https://github.com/olucso/assets/blob/main/10.jpg)]()
+
+## • Instalação
+
+1. Install the dependencies:
+
+   ```sh
+   npm install
+   ```
+
+2. Run the development server:
+
+   ```sh
+   npm run dev
+   ```
+
+
+## • Uso
+
+Navegar em `http://localhost:3000` no seu browser.
